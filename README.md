@@ -1,5 +1,7 @@
 **The challenge**
 
+0) Rewrite the application to typescript if you can do it.
+
 1) Sort fetched items and form 2 lists,
 
  - first list should stay untouched
